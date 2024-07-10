@@ -55,7 +55,7 @@ export default function Home() {
                 placeholder="Enter email address"
                 className="w-full bg-[#16181d] p-3 ps-4 pr-40 lg:ps-12 lg:pe-20 rounded-full border-t-2 border-l-2 border-b-2 border-r-0 border-gray-700 outline-none ring-0 focus:outline-none focus:ring-0"
               />
-              <button className="absolute right-0 top-0 bottom-0 bg-gradient-to-b from-[#498fdd] to-[#66dce7] text-black py-3 px-3 rounded-full text-sm md:text-base font-bold">
+              <button className="absolute right-0 top-0 bottom-0 bg-gradient-to-b from-[#498fdd] to-[#66dce7] text-black py-3 px-3 rounded-full text-sm md:text-base">
                 Get Early Access
               </button>
             </div>
