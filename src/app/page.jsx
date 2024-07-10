@@ -44,7 +44,9 @@ export default function Home() {
             </div>
             <div className="w-full lg:w-6/12 flex justify-center items-center mb-0 lg:mb-20">
               <div className="w-full md:w-8/12 lg:w-full xl:w-9/12 aspect-video bg-black rounded-[35px] flex justify-center items-center">
-                <Play />
+                <div className="w-fit rounded-full bg-white flex justify-center items-center">
+                  <Play />
+                </div>
               </div>
             </div>
           </div>
