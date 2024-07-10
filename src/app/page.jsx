@@ -29,6 +29,7 @@ export default function Home() {
                     &nbsp;to&nbsp;accelerate&nbsp;your&nbsp;spot&nbsp;in&nbsp;the&nbsp;queue
                   </span>
                 </p>
+
                 <div className="w-full md:w-11/12 relative px-0 hidden lg:flex">
                   <input
                     type="text"
